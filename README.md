@@ -1,3 +1,4 @@
 # hello-world
 
-"I hate learning Git!"
+
+"I love learning Git!"
